@@ -1,0 +1,6 @@
+# Ignore this files
+.ipynb_checkpoints
+lenet.*
+
+# But not these files...
+!*.gitkeep
