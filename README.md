@@ -22,10 +22,8 @@ The goals / steps of this project are the following:
 [image5]: ./images/image5.png "CNN Visualization"
 
 ## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.
+### All [rubric points](https://review.udacity.com/#!/rubrics/481/view) are in this [jupyter notebook](https://github.com/italojs/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
 ---
-
-All rubics are in jupyter notebook.
 
 ## Conclusion:
 
