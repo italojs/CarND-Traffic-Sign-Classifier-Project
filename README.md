@@ -50,14 +50,14 @@ I used 128 every time '-'<br>
 #### Question 
 Please discuss and justify your choice ( and include in your write-up) the following.
 
-batch size
-number of epochs
-values for hyperparameters.
+batch size<br>
+number of epochs<br>
+values for hyperparameters.<br>
 what optimizer was used<br>
 #### Answer
-batch size: i used the values that are used in udacity lessons
-number of epochs: i try 5, 10, 20, 30, 40 and 50, after 30 it dont have more effects
-values for hyperparameters: aswer is the same of first question
+batch size: i used the values that are used in udacity lessons<br>
+number of epochs: i try 5, 10, 20, 30, 40 and 50, after 30 it dont have more effects<br>
+values for hyperparameters: aswer is the same of first question<br>
 what optimizer was used: Adam Optimizer<br>
 
 #### Question 
