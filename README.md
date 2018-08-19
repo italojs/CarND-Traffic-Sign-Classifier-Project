@@ -36,7 +36,7 @@ The goals / steps of this project are the following:
 #### Question
  Your last layer is described as "Fully connected input = 84, output = 10",which is incorrect. As you stated, the output is 43 labels instead of 10.<br>
 #### Answer
- Sorry, i use the output= 10 on the initial times that I run it, i used the LeNet code from "lenet for trafic signs" (lesson 4 - LeNet Implementation ), but i wanna a better CNN, so i was trying many options, as I was using the google colab, i don't care in train many differents values because in colab I have free GPU, so i really used it, in the finish i had the values that are in the jupyter notebook.
+ Sorry, i use the output= 10 on the initial times that I runned it, i used the LeNet code from "lenet for trafic signs" (lesson 4 - LeNet Implementation ), but i wanted a better CNN, so i tryed many options, as I was using the google colab, i don't care in train many differents values because in colab I have free GPU, so i really used it haha, in the finish i had the values that are in the jupyter notebook.
 <br>
 ---
 #### Question
